@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: **Personal Projects and Studing**
 
-- 🌱 I’m currently learning: **Spark, Airflow, NOSQL(mongodb, cassandra)**
+- 🌱 I’m currently learning: **Scala, Spark, Airflow, NOSQL(mongodb, cassandra)**
 
 - 💬 About me: **I am a person who loves technology, and is passionate about the world of data (Data Stack).**
 
