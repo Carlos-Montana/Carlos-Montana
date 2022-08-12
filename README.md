@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Carlos Montaña</h1>
-<h3 align="center">A passionate data engineer developer jr, from Argentina</h3>
+<h3 align="center">A passionate data engineer and data analyst, developer jr, from Argentina</h3>
 
 - 🔭 I’m currently working on: **Personal Projects and Studing**
 
-- 🌱 I’m currently learning: **Scala, Spark, Airflow, NOSQL(mongodb, cassandra)**
+- 🌱 I’m currently learning: **Spark, Airflow, NOSQL(mongodb, cassandra), PowerBI and New Soft Skill**
 
-- 💬 About me: **I am a person who loves technology, and is passionate about the world of data (Data Stack).**
+- 💬 About me: **I am a person who loves technology, I am looking for new challenges, I consider myself resilient, responsible and I like to solve problems. I am always learning and giving my best in order to have a positive impact in the environment where I am.**
 
 - 📫 How to reach me: **carlosjavier582@gmail.com**
 
